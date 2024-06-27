@@ -13,7 +13,7 @@ Para utilizar el simulador:
 3. Abre el archivo principal en Simulink de MATLAB para comenzar la simulación.
 
 ## Soporte y Contribuciones
-- **Ayuda:** Para recibir asistencia sobre el uso del simulador, visita el [foro de GitHub](https://github.com/tu_usuario/tu_repositorio/issues).
+- **Ayuda:** Para recibir asistencia sobre el uso del simulador, visita el [foro de GitHub](https://github.com/LEKamt/PZT_Simulador/issues).
 - **Contribuciones:** Este proyecto es mantenido por los autores de la investigación. Si deseas contribuir, por favor consulta las pautas de contribución en el repositorio.
 
 ## Autores
